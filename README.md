@@ -1,2 +1,2 @@
-# Pomodoro-Times
+# Pomodoro-Timer
 React Pomodoro App
