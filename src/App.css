@@ -1,0 +1,14 @@
+.settings {
+  display: flex;
+  justify-content: space-around;
+}
+
+.setTimer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.setTimer{
+  display: flex;
+  justify-content: center;
+}
